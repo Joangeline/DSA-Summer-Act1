@@ -2,7 +2,7 @@
 #define DYNAMIC_ARRAY_H
 
 #include <stdbool.h>
-
+#define MAX 10
 typedef int DATA;
 
 typedef struct {
